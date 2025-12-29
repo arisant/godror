@@ -1,4 +1,4 @@
-module github.com/arisant/godror
+module github.com/arisant/godror/v2
 
 go 1.23.0
 
